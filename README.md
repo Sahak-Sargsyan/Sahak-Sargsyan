@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sahak 👋
 
 ## About Me
 👨‍💻 I'm currently learning .NET development, focusing on C# and ASP.NET.

@@ -9,8 +9,8 @@
 ## Technologies
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** C#
-- **Frameworks:** ASP.NET
-- **Databases:** SQL Server
+- **Frameworks:** ASP.NET, Entity Framework Core
+- **Databases:** SQL Server, SQLite
 - **Tools:** Visual Studio, Git
 
 

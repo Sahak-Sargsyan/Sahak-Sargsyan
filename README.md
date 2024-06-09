@@ -16,9 +16,9 @@
 
 ## Contact Me
 - 📧 Email: sargsyan_sahak@yahoo.com(mailto:sargsyan_sahak@yahoo.com)
-- 💼 LinkedIn: Sahak Sargsyan([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/sahak-sargsyan-60931b21b/))
+- 💼 LinkedIn: Sahak Sargsyan([https://www.linkedin.com/in/sahak-sargsyan](https://www.linkedin.com/in/sahak-sargsyan-60931b21b/))
 
-Feel free to check out my repositories and don't hesitate to connect with me!
+Feel free to check out my repositories and don't hesitate to contact me!
 
 <!---
 Sahak-Sargsyan/Sahak-Sargsyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

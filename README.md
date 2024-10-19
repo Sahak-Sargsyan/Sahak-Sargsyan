@@ -15,7 +15,7 @@
 
 
 ## Contact Me
-- 📧 Email: sargsyan_sahak@yahoo.com(mailto:sargsyan_sahak@yahoo.com)
+- 📧 Email: sargsyan_sahak@outlook.com(mailto:sargsyan_sahak@outlook.com)
 - 💼 LinkedIn: Sahak Sargsyan([https://www.linkedin.com/in/sahak-sargsyan](https://www.linkedin.com/in/sahak-sargsyan-60931b21b/))
 
 Feel free to check out my repositories and don't hesitate to contact me!

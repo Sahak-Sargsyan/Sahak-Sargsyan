@@ -8,10 +8,9 @@
 
 ## Technologies
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** C#
-- **Frameworks:** ASP.NET, Entity Framework Core
-- **Databases:** SQL Server, SQLite
-- **Tools:** Visual Studio, Git
+- **Backend:** C#, Python
+- **Frameworks:** ASP.NET, Entity Framework Core, FastAPI
+- **Databases:** SQL Server, SQLite, Mongo
 
 
 ## Contact Me

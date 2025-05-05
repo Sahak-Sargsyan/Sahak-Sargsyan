@@ -1,15 +1,12 @@
 # Hello, I'm Sahak 👋
 
 ## About Me
-👨‍💻 I'm currently learning .NET development, focusing on C# and ASP.NET.
-🎓 I am currently studying Informatics and Applied Mathematics at Yerevan State University.
-🌱 I’m currently working on personal projects to strengthen my .NET skills.
 🔍 I’m interested in building scalable web applications and learning about cloud services.
 
 ## Technologies
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular
 - **Backend:** C#, Python
-- **Frameworks:** ASP.NET, Entity Framework Core, FastAPI
+- **Frameworks:** ASP.NET, Entity Framework Core, FastAPI, Flask
 - **Databases:** SQL Server, SQLite, Mongo
 
 
